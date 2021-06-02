@@ -6,13 +6,13 @@
     <img src="https://img.shields.io/github/forks/Zora24/Lord-Userbot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Zora24/Lord-Userbot">
+  <a href="https://github.com/fujikawarakoko/Lord-Userbot">
     <img src="https://img.shields.io/github/stars/Zora24/Lord-Userbot?style=social">
   </a>
 </p>  
 
-# Lord Userbot
-![Lord Userbot Logo](https://telegra.ph/file/62dc59b2013a48f9cc8f3.jpg)
+# Fujikawara Userbot
+![Fujikawara Userbot Logo](https://telegra.ph/file/62dc59b2013a48f9cc8f3.jpg)
 
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
