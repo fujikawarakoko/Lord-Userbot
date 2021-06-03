@@ -12,7 +12,7 @@
 </p>  
 
 # Fujikawara Userbot
-![Fujikawara Userbot Logo](https://telegra.ph/file/9e052d105620716291814.jpg)
+![Fujikawara Userbot Logo](https://telegra.ph/file/110d923a17ebc6746b1ba.jpg)
 
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
