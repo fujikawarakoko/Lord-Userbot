@@ -1,4 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5501763.gif" width="473" height="82" alt="LORD USERBOT" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5533576.png" width="730" height="192" alt="Fujikawara Teams Userbot" /></a>
 
 
 <p align="center">
