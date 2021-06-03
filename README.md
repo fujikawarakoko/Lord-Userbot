@@ -23,7 +23,7 @@ Repo Yang Dibuat [Alvin](https://t.me/liualvinas) Dari Berbagai Repo Userbot Git
 
 ### CARA MENDAPATKAN STRING SESSON
 
-Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](https://t.me/LordUserbot_Group) Untuk Masuk Ke Grup Support
+[TEKAN DISINI](https://repl.it/@AL241/String-Sesson-Lord#pyproject.toml)
 
 ## Bagaimana Cara Deploy?
 
@@ -65,4 +65,5 @@ TERIMAKASIH UNTUK
 *   [༺αиυвιѕ༻](https://github.com/Dark-Princ3) - X-tra-Telegram
 *   [Sahyam2019](https://github.com/sahyam2019/oub-remix) - oub-remix
 *   [TeamUserge](https://github.com/UsergeTeam/Userge) - Userge
+*   [FujikawaraKoko](https://t.me/white_bloodcell) - Fujikawara Teams
 *   DAN BANYAK LAGI 
