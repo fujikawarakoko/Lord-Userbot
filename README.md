@@ -12,7 +12,7 @@
 </p>  
 
 # Fujikawara Userbot
-![Fujikawara Userbot Logo](https://telegra.ph/file/45896e9672258d9b214b4.jpg)
+![Fujikawara Userbot Logo](https://telegra.ph/file/9e052d105620716291814.jpg)
 
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
@@ -21,18 +21,18 @@
 Repo Yang Dibuat [Alvin](https://t.me/liualvinas) Dari Berbagai Repo Userbot Github 
 
 
-### CARA MENDAPATKAN STRING SESSON
+### LINK STRING SESSION
 
-[TEKAN DISINI](https://repl.it/@AL241/String-Sesson-Lord#pyproject.toml)
+String Session via Repl.it [TEKAN DISINI](https://repl.it/@AL241/String-Sesson-Lord#pyproject.toml)
 
 ## Bagaimana Cara Deploy?
 
 ```
-* **CARA DEPLOY** 🔧
+CARA DEPLOY 🔧
 
   > Pertama Dapatkan API_KE & API_HASH Di my.telegram.org (Wajib)
 
-  > Dapatkan String Session Di Termux (Wajib)
+  > Dapatkan String Session Di Termux / Repl.it (Wajib)
 
   > Next Tekan Tombol Deploy Dibawah
 
